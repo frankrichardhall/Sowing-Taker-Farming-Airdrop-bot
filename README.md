@@ -1,4 +1,4 @@
-# Sowing-Taker-Farming-Airdrop-bot
+# Sowing Taker Farming Airdrop bot
 A farming automation bot built to work seamlessly with the Taker Sowing Protocol. It automates daily sign-ins and farming tasks to efficiently collect Taker Points, potentially increasing eligibility for future airdrops.
 
 ## Requirements
