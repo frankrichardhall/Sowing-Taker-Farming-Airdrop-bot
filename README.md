@@ -35,7 +35,7 @@ A farming automation bot built to work seamlessly with the Taker Sowing Protocol
    ]
    ```
 
-4. **Run the Bot**:
+4. **Run**:
 
    ```bash
    npm start
