@@ -50,3 +50,4 @@ A farming automation bot built to work seamlessly with the Taker Sowing Protocol
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+ 
